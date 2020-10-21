@@ -1,0 +1,30 @@
+C:\Users\x1\Desktop\PAINT\PAINT\bin\Debug\PAINT.exe.config
+C:\Users\x1\Desktop\PAINT\PAINT\bin\Debug\PAINT.exe
+C:\Users\x1\Desktop\PAINT\PAINT\bin\Debug\PAINT.pdb
+C:\Users\x1\Desktop\PAINT\PAINT\obj\Debug\PAINT.csprojAssemblyReference.cache
+C:\Users\x1\Desktop\PAINT\PAINT\obj\Debug\PAINT.Form1.resources
+C:\Users\x1\Desktop\PAINT\PAINT\obj\Debug\PAINT.Properties.Resources.resources
+C:\Users\x1\Desktop\PAINT\PAINT\obj\Debug\PAINT.csproj.GenerateResource.cache
+C:\Users\x1\Desktop\PAINT\PAINT\obj\Debug\PAINT.csproj.CoreCompileInputs.cache
+C:\Users\x1\Desktop\PAINT\PAINT\obj\Debug\PAINT.exe
+C:\Users\x1\Desktop\PAINT\PAINT\obj\Debug\PAINT.pdb
+C:\Users\x1\Desktop\4 курс\PAINT\PAINT\bin\Debug\PAINT.exe.config
+C:\Users\x1\Desktop\4 курс\PAINT\PAINT\bin\Debug\PAINT.exe
+C:\Users\x1\Desktop\4 курс\PAINT\PAINT\bin\Debug\PAINT.pdb
+C:\Users\x1\Desktop\4 курс\PAINT\PAINT\obj\Debug\PAINT.csprojAssemblyReference.cache
+C:\Users\x1\Desktop\4 курс\PAINT\PAINT\obj\Debug\PAINT.Form1.resources
+C:\Users\x1\Desktop\4 курс\PAINT\PAINT\obj\Debug\PAINT.Properties.Resources.resources
+C:\Users\x1\Desktop\4 курс\PAINT\PAINT\obj\Debug\PAINT.csproj.GenerateResource.cache
+C:\Users\x1\Desktop\4 курс\PAINT\PAINT\obj\Debug\PAINT.csproj.CoreCompileInputs.cache
+C:\Users\x1\Desktop\4 курс\PAINT\PAINT\obj\Debug\PAINT.exe
+C:\Users\x1\Desktop\4 курс\PAINT\PAINT\obj\Debug\PAINT.pdb
+F:\PAINT\PAINT\bin\Debug\PAINT.exe.config
+F:\PAINT\PAINT\bin\Debug\PAINT.exe
+F:\PAINT\PAINT\bin\Debug\PAINT.pdb
+F:\PAINT\PAINT\obj\Debug\PAINT.csprojAssemblyReference.cache
+F:\PAINT\PAINT\obj\Debug\PAINT.Form1.resources
+F:\PAINT\PAINT\obj\Debug\PAINT.Properties.Resources.resources
+F:\PAINT\PAINT\obj\Debug\PAINT.csproj.GenerateResource.cache
+F:\PAINT\PAINT\obj\Debug\PAINT.csproj.CoreCompileInputs.cache
+F:\PAINT\PAINT\obj\Debug\PAINT.exe
+F:\PAINT\PAINT\obj\Debug\PAINT.pdb
